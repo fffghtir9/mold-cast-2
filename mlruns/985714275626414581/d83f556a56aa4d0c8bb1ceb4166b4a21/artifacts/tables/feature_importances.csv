@@ -1,0 +1,8 @@
+rank,feature,importance
+1,num_cols__mold_materials,0.87336576
+2,num_cols__Power,0.038700778
+3,num_cols__sum_of_tariff,0.027607549
+4,num_cols__S,0.02686732
+5,num_cols__mold_wid,0.013055421
+6,num_cols__mold_hi,0.012643858
+7,num_cols__mold_len,0.0077593676

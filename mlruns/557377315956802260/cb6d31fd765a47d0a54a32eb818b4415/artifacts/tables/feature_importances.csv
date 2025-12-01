@@ -1,0 +1,12 @@
+rank,feature,importance
+1,num_cols__S,17.43930218779644
+2,num_cols__square_1,12.552139078186867
+3,num_cols__mold_wid,11.824522877373315
+4,num_cols__square_4,8.338023711637577
+5,num_cols__square,8.212016979316253
+6,num_cols__sum_of_tariff,7.940737888754232
+7,num_cols__square_2,7.8839726911788
+8,num_cols__Power,7.514376021250992
+9,num_cols__square_3,6.8816935649821875
+10,num_cols__mold_hi,5.772446868738286
+11,num_cols__mold_len,5.640768130785042

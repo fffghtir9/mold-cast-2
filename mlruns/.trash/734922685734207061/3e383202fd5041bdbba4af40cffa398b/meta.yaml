@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Irishka/Desktop/Project/data/mlruns/734922685734207061/3e383202fd5041bdbba4af40cffa398b/artifacts
+deleted_time: 1759776013786
+end_time: 1759775256164
+entry_point_name: ''
+experiment_id: '734922685734207061'
+lifecycle_stage: deleted
+run_id: 3e383202fd5041bdbba4af40cffa398b
+run_name: stately-asp-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759775256100
+status: 4
+tags: []
+user_id: Irishka

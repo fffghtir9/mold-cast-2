@@ -1,0 +1,11 @@
+pandas
+seaborn
+ydata-profiling
+scikit-learn
+xgboost
+lightgbm
+catboost
+mlflow
+setuptools
+optuna
+phik

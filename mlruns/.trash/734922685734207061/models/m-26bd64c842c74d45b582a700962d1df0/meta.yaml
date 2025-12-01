@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Irishka/Desktop/Project/data/mlruns/734922685734207061/models/m-26bd64c842c74d45b582a700962d1df0/artifacts
+creation_timestamp: 1759775293668
+experiment_id: '734922685734207061'
+last_updated_timestamp: 1759775296588
+model_id: m-26bd64c842c74d45b582a700962d1df0
+model_type: null
+name: lgb
+source_run_id: 4404133412d94f129b8b071b1cb3a657
+status: 2
+status_message: null

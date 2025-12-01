@@ -1,0 +1,8 @@
+rank,feature,split_count,split_percent
+1,num_cols__sum_of_tariff,0.0,0.0
+2,num_cols__Power,0.0,0.0
+3,num_cols__S,0.0,0.0
+4,num_cols__mold_materials,0.0,0.0
+5,num_cols__mold_wid,0.0,0.0
+6,num_cols__mold_hi,0.0,0.0
+7,num_cols__mold_len,0.0,0.0

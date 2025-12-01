@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/Irishka/Desktop/Project/data/mlruns/985714275626414581/models/m-f05a96719e8b4b8887901a6943b05ca3/artifacts
+creation_timestamp: 1760462359720
+experiment_id: '985714275626414581'
+last_updated_timestamp: 1760462363728
+model_id: m-f05a96719e8b4b8887901a6943b05ca3
+model_type: null
+name: xgb
+source_run_id: 1c6a1fea3a2f4205925c571c382680c4
+status: 2
+status_message: null

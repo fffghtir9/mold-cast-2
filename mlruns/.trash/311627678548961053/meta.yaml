@@ -1,0 +1,8 @@
+artifact_location: file:c:/Users/Irishka/Desktop/Project/data/mlruns/311627678548961053
+creation_time: 1759775966067
+experiment_id: '311627678548961053'
+last_update_time: 1759776013786
+lifecycle_stage: deleted
+name: lgb_1
+tags:
+  mlflow.experimentKind: custom_model_development

@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/512406098575155466/b5e8bd2037d84ec08f184523f030acb1/artifacts
+end_time: 1759776949715
+entry_point_name: ''
+experiment_id: '512406098575155466'
+lifecycle_stage: active
+run_id: b5e8bd2037d84ec08f184523f030acb1
+run_name: formul
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759776949613
+status: 3
+tags: []
+user_id: Irishka

@@ -1,0 +1,8 @@
+fastapi
+pandas
+cloudpickle
+xgboost
+python-multipart
+uvicorn
+openpyxl
+scikit-learn

@@ -1,0 +1,40 @@
+stages:
+  - build
+  - deploy
+
+image: docker:20.10.16 # specifies the Docker image to be used for the build and deploy stages
+
+variables:
+  DOCKER_HOST: tcp://docker:2376 # specifies the Docker host's address for connecting to the Docker daemon
+  DOCKER_TLS_CERTDIR: "/certs" # directory where TLS certificates are stored for secure communication with the Docker daemon
+  DOCKER_TLS_VERIFY: 1 # enables TLS verification for secure Docker operations
+  DOCKER_CERT_PATH: "$DOCKER_TLS_CERTDIR/client" # path to the client TLS certificates
+  DOCKER_DRIVER: overlay2 # specifies the storage driver for Docker
+  # api
+  API_VERSION: 0.1
+  CI_API_PATH: "api"
+  # ui
+  UI_VERSION: 0.1
+   # CI_ST_UI_PATH: "ui_st"
+  CI_GR_UI_PATH: "ui_gr"
+  PROJECT_NAME: "mold-cast-2"
+  
+
+services:
+  - docker:20.10.16-dind 
+
+before_script:
+  - for try in {1..10}; do sleep 0.5; docker info && break ; done 
+
+build:
+  stage: build
+  script:
+    - echo "${CI_REGISTRY_KEY}" | docker login ${CI_REGISTRY} -u json_key --password-stdin 
+    - >- 
+      docker build ./API
+      --tag "${CI_REGISTRY}/${CI_API_PATH}:${API_VERSION}"
+    - docker push "${CI_REGISTRY}/${CI_API_PATH}:${API_VERSION}" 
+    - >- 
+      docker build ./UI
+      --tag "${CI_REGISTRY}/${CI_GR_UI_PATH}:${UI_VERSION}"
+    - docker push "${CI_REGISTRY}/${CI_GR_UI_PATH}:${UI_VERSION}" 

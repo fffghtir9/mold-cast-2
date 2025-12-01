@@ -1,0 +1,15 @@
+pandas
+seaborn
+ydata-profiling
+scikit-learn
+xgboost
+lightgbm
+catboost
+mlflow
+setuptools
+optuna
+openpyxl
+mlflow
+fastapi
+uvicorn
+gradio

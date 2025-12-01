@@ -1,0 +1,5 @@
+pandas
+gradio
+requests
+python-multipart
+openpyxl

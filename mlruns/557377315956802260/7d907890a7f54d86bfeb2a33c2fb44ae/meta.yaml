@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/557377315956802260/7d907890a7f54d86bfeb2a33c2fb44ae/artifacts
+deleted_time: 1759776963755
+end_time: 1759776673999
+entry_point_name: ''
+experiment_id: '557377315956802260'
+lifecycle_stage: deleted
+run_id: 7d907890a7f54d86bfeb2a33c2fb44ae
+run_name: charming-koi-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759776670096
+status: 3
+tags: []
+user_id: Irishka

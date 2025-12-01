@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/Irishka/Desktop/Project/data/mlruns/927429538901736966
+creation_time: 1759776075135
+experiment_id: '927429538901736966'
+last_update_time: 1759776075135
+lifecycle_stage: active
+name: lgb_model

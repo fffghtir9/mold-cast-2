@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/927429538901736966/a2e0cd6eca43421485aab8c40f82d369/artifacts
+end_time: 1760989227151
+entry_point_name: ''
+experiment_id: '927429538901736966'
+lifecycle_stage: active
+run_id: a2e0cd6eca43421485aab8c40f82d369
+run_name: lgb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760989221253
+status: 3
+tags: []
+user_id: Irishka

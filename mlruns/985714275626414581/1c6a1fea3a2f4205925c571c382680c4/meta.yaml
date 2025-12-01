@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/985714275626414581/1c6a1fea3a2f4205925c571c382680c4/artifacts
+deleted_time: 1760462533355
+end_time: 1760462363912
+entry_point_name: ''
+experiment_id: '985714275626414581'
+lifecycle_stage: deleted
+run_id: 1c6a1fea3a2f4205925c571c382680c4
+run_name: xgb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760462359646
+status: 4
+tags: []
+user_id: Irishka

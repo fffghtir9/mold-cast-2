@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/557377315956802260/3be225a863b8402b931913734c2405f5/artifacts
+end_time: 1760989234138
+entry_point_name: ''
+experiment_id: '557377315956802260'
+lifecycle_stage: active
+run_id: 3be225a863b8402b931913734c2405f5
+run_name: cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760989230922
+status: 3
+tags: []
+user_id: Irishka

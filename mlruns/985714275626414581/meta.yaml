@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/Irishka/Desktop/Project/data/mlruns/985714275626414581
+creation_time: 1759776662680
+experiment_id: '985714275626414581'
+last_update_time: 1759776662680
+lifecycle_stage: active
+name: xgb_model

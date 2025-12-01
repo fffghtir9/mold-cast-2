@@ -1,0 +1,12 @@
+rank,feature,importance
+1,num_cols__square,66
+2,num_cols__mold_hi,55
+3,num_cols__sum_of_tariff,51
+4,num_cols__mold_wid,37
+5,num_cols__S,19
+6,num_cols__mold_len,14
+7,num_cols__Power,12
+8,num_cols__square_1,11
+9,num_cols__square_3,2
+10,num_cols__square_4,0
+11,num_cols__square_2,0

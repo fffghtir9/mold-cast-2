@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/Irishka/Desktop/Project/data/mlruns/512406098575155466/855c02d7fb6d4a47b6b582b12ee3e94e/artifacts
+deleted_time: 1759776963755
+end_time: 1759776680176
+entry_point_name: ''
+experiment_id: '512406098575155466'
+lifecycle_stage: deleted
+run_id: 855c02d7fb6d4a47b6b582b12ee3e94e
+run_name: upbeat-perch-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759776680076
+status: 3
+tags: []
+user_id: Irishka

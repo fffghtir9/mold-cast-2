@@ -1,0 +1,11 @@
+split,split_pct,feature
+358.0,30.4421768707483,num_cols__mold_len
+201.0,17.091836734693878,num_cols__mold_hi
+206.0,17.517006802721088,num_cols__mold_wid
+88.0,7.482993197278912,num_cols__square
+30.0,2.5510204081632653,num_cols__square_1
+10.0,0.8503401360544218,num_cols__square_2
+37.0,3.1462585034013606,num_cols__S
+115.0,9.77891156462585,num_cols__Power
+109.0,9.268707482993198,num_cols__sum_of_tariff
+22.0,1.870748299319728,num_cols__square_3

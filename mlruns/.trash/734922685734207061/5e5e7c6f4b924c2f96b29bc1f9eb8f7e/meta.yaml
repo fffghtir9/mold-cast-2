@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Irishka/Desktop/Project/data/mlruns/734922685734207061/5e5e7c6f4b924c2f96b29bc1f9eb8f7e/artifacts
+deleted_time: 1759776013786
+end_time: 1759775498929
+entry_point_name: ''
+experiment_id: '734922685734207061'
+lifecycle_stage: deleted
+run_id: 5e5e7c6f4b924c2f96b29bc1f9eb8f7e
+run_name: resilient-fly-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759775495921
+status: 3
+tags: []
+user_id: Irishka

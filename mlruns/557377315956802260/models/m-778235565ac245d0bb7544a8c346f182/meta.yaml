@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/Irishka/Desktop/Project/data/mlruns/557377315956802260/models/m-778235565ac245d0bb7544a8c346f182/artifacts
+creation_timestamp: 1759779176644
+experiment_id: '557377315956802260'
+last_updated_timestamp: 1759779179681
+model_id: m-778235565ac245d0bb7544a8c346f182
+model_type: null
+name: cbc
+source_run_id: e3446e89ae36494b98da9f754194db22
+status: 2
+status_message: null
