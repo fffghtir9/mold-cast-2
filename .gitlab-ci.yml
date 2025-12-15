@@ -17,7 +17,7 @@ variables:
   UI_VERSION: 0.1
    # CI_ST_UI_PATH: "ui_st"
   CI_GR_UI_PATH: "ui_gr"
-  PROJECT_NAME: "mold-cast-2"
+  PROJECT_NAME: "mold-cast-3"
   
 
 services:
